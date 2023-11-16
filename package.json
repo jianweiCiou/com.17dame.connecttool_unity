@@ -1,0 +1,30 @@
+{
+    "name":"com.17dame.connecttool",
+    "version":"1.0.0",
+    "displayName":"17dame Connect Tool",
+    "description":"1. 使用者登入授權 \n2. 取得 access_token\n3.使用 refresh_token 更新 \n4. 取得使用者資訊 ",
+    "unity":"2022.3",
+    "dependencies":{},
+    "keywords":["login","token"],
+    "author": {
+        "name": "17dame",
+        "email":"17dame@17dame.com",
+        "url":"https://17dame.com"
+    },
+"documentationUrl": " ",
+ 
+ "samples": [
+   {
+
+     "displayName": "Connect sample",
+
+     "description": "註冊, 登入, 取得 access token 至取得使用者資訊",
+
+     "path": "Samples~/Connect sample scene"
+
+   } 
+
+ ]
+ 
+
+}
